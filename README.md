@@ -9,4 +9,8 @@ Your Path may be changed
 2nd install Requirement Libraries
 pip install -r requirements.txt
 
-3rd python emotion.py run this file
+3rd python emotion.py run this file     
+
+
+
+                  --- Rohan Tess
